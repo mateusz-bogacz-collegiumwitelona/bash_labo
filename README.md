@@ -1,0 +1,1 @@
+Proste pliki BASH które wykonałem na labolatoria z systemów operacyjnych
